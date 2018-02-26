@@ -1,2 +1,2 @@
 # hello-world
-Not your average repository
+Not your average repository.
